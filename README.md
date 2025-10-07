@@ -1,10 +1,10 @@
 # 👋 Olá!
 
-🎯 Me chamo Carlos Marques, atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sou um **Desenvolvedor Backend** com experiência sólida na criação de sistemas robustos e integrações em **iGaming** e **Casino Games**.
+Me chamo Carlos Marques, atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sou um **Desenvolvedor Backend** com experiência sólida na criação de sistemas robustos e integrações em **iGaming** e **Casino Games**.
 
 ---
 
-## 🧠 Stack Tecnológico
+## Stack Tecnológico
 
 ### 🖥️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarlosmarques/)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.carlosmarques@gmail.com)
 
